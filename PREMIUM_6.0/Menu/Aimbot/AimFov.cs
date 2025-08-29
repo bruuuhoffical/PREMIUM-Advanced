@@ -27,11 +27,11 @@ namespace PREMIUM_6._0.Menu.Aimbot
                 _mainForm.Notify(message, message1);
             }));
         }
-        string search = "19 3E CD CC 4C 3E A4 70 FD 3E AE 47 01 3F";
-        string replace = "19 3E CD CC 4C 3E A4 70 FD 3E AE 47 E1 FF";
+        string search = "";
+        string replace = "";
 
         //Disable
-        string revert = "19 3E CD CC 4C 3E A4 70 FD 3E AE 47 01 3F";
+        string revert = "";
 
         bool k = false;
         Bool Bool = new Bool();
