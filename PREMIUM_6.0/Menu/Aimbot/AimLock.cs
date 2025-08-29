@@ -27,11 +27,11 @@ namespace PREMIUM_6._0.Menu.Aimbot
                 _mainForm.Notify(message, message1);
             }));
         }
-        string search = "C0 3F 0A D7 A3 3B 0A D7 A3 3B 8F";
-        string replace = "90 65 0A D7 A3 3B 0A D7 A3 3B 8F";
+        string search = "";
+        string replace = "";
 
         //Disable
-        string revert = "C0 3F 0A D7 A3 3B 0A D7 A3 3B 8F";
+        string revert = "";
 
         bool k = false;
         Bool Bool = new Bool();
